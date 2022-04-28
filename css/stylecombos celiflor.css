@@ -184,7 +184,7 @@
     border-radius: 10px;
   }
   #principal{
-    background-image: url(/img/json1.jpeg);
+    background-image: url(../img/json1.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
